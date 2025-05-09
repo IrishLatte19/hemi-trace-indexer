@@ -1,0 +1,28 @@
+{
+  "name": "hemi-trace-indexer",
+  "version": "1.0.0",
+  "description": "Script to index and filter transactions on Hemi network",
+  "main": "find_user_verify.js",
+  "scripts": {
+    "start": "node find_user_verify.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IrishLatte19/hemi-trace-indexer.git"
+  },
+  "keywords": [
+    "hemi",
+    "blockchain",
+    "indexer",
+    "transaction-filter"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IrishLatte19/hemi-trace-indexer/issues"
+  },
+  "homepage": "https://github.com/IrishLatte19/hemi-trace-indexer#readme",
+  "dependencies": {
+    "ethers": "^6.11.1"
+  }
+} 
