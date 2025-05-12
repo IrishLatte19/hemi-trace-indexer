@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/IrishLatte19/hemi-trace-indexer#readme",
   "dependencies": {
-    "ethers": "^6.11.1"
+    "ethers": "^6.11.1",
+    "node-fetch": "^2.7.0"
   }
-} 
+}
