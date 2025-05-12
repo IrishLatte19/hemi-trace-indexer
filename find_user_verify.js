@@ -4,8 +4,8 @@ const fs = require('fs');
 // Configuration
 const rpcUrl = "https://rpc.hemi.network/rpc";
 const targetContract = "0x70468f06cf32b776130e2da4c0d7dd08983282ec";
-const startBlock = 1743600; // Change these values as needed
-const endBlock = 1744310;   // Change these values as needed
+const startBlock = 1272611; // Change these values as needed
+const endBlock = 1765629;   // Change these values as needed
 const batchSize = 100;      // Number of blocks to process in a batch
 
 // Initialize provider
